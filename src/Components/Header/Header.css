@@ -1,0 +1,16 @@
+.NavLink {
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    margin-left: 25px;
+}
+
+.NavLink:hover {
+    color: orangered;
+    text-decoration: none;
+}
+
+.active {
+    text-shadow: 1px 1px grey;
+    color: orangered;
+}

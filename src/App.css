@@ -1,0 +1,11 @@
+html * {
+    font-family: 'Roboto', sans-serif;
+}
+
+html {
+    scroll-behavior: smooth !important;
+}
+
+.stylish {
+    font-family: 'Lobster', cursive;
+}
